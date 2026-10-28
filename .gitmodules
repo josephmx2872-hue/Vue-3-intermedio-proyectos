@@ -1,0 +1,9 @@
+[submodule "composition-app"]
+	path = composition-app
+	url = https://github.com/josephmx2872-hue/composition-app.git
+[submodule "Pinia"]
+	path = Pinia
+	url = https://github.com/josephmx2872-hue/Pinia.git
+[submodule "issues-app"]
+	path = issues-app
+	url = https://github.com/josephmx2872-hue/issues-app.git
